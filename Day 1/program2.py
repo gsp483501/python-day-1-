@@ -1,0 +1,1 @@
+print("welcome this is my day 2 program")
